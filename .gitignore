@@ -103,3 +103,7 @@ node_modules
 # Created by .ignore support plugin (hsz.mobi)
 
 typings
+
+# Ignoring the Typescript generated js and js.map scripts
+app*/scripts/*.js
+app*/scripts/*.js.map
